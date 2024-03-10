@@ -1,5 +1,6 @@
 # Vencord-inst
 Everytime a new discord app version releases for linux, you have to download the files yourself off of the website, and apply any patches each and every time you reinstall. 
+
 Or do you?
 
 Vencord-inst is a script that will download the latest and greatest discord, and will automatically patch it with vencord without *any* user interaction!
