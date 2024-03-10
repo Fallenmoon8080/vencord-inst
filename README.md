@@ -7,7 +7,7 @@ Please note that this script will install the **stable** discord app, and only w
 ## Requirements
  - sudo (and permissions to use it)
  - wget
- - Internet connection
+ - debian-based distro  
 Do not run this script as root, as that will mess things up! Instead, just run it as a normal user that has sudo privileges.
 
 ## How to use
