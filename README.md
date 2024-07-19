@@ -12,7 +12,7 @@ Do not run this script as root, as that will mess things up! Instead, just run i
 
 ## How to use
 To get the script, you can either download it directly, or you can the following command  
-`cd; wget https://raw.githubusercontent.com/LucRtheL/vencord-inst/main/vencord_inst`  
+`cd; wget https://raw.githubusercontent.com/Fallenmoon8080/vencord-inst/main/vencord_inst`  
 Once you've downloaded the script, navigate to its containing directory, and run  
 `chmod +x vencord_inst`  
 Finally to execute the script, simply run  
